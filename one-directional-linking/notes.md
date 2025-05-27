@@ -1,4 +1,4 @@
-Building the 'platform_description' documentation, that is heavily linked with 'score_platform'
+Building the [platform_description](https://github.com/eclipse-score/process_description) documentation, that is heavily linked with 'score_platform'
 
 The two possible ways are 'latest' as well as 'release'. 
 
