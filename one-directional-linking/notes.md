@@ -2,7 +2,7 @@ Building the 'platform_description' documentation, that is heavily linked with '
 
 The two possible ways are 'latest' as well as 'release'. 
 
-Latest => Linking to the latest 'main' branch. This grabs the 'needs.json' from the specified URL.
+Latest => Linking to the latest 'main' branch. This grabs the 'needs.json' from the specified URL.  
 Release => Depends on the latest released version of imported Module. Builds the 'needs.json' in Bazel as prerequisite.
 
 
